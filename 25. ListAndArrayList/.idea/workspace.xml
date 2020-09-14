@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b29e3243-e83c-4374-a742-1a60130b4372" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroceryList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -64,6 +63,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="457" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1600106268126">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="457" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1600106268126" />
     <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1600020873713">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
